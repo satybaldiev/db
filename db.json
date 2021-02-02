@@ -3,9 +3,13 @@
     {
       "id": 1,
       "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "elbar"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "something": {
+    "name": "wtf"
   }
 }
